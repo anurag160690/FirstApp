@@ -1,0 +1,24 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "code",
+    "vs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anurag160690/FirstApp.git"
+  },
+  "author": "Anurag Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
